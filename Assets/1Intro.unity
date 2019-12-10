@@ -648,10 +648,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: This is the first screen, the Intro screen. Use this for explanation of
-    game play and setting the user preferences with slider bars, dropdown menus, and
-    such. The Game scene (#3) will have two fields for speed and size. This is a mere
-    simulation of speed and size in an actual game.
+  m_Text: In this game you select the speed and the amount of time you have to play
+    from the drop downs. Use the slider to control the size and make sure the toggle
+    is check to move on to the next scene where you will be instructed to enter your
+    player name and see the score board. From there the folloing scene will have the
+    count down and it is your job to click the button as fast as you can to increase
+    the score. Once the time is up click the next button and you will see the score
+    board and be able to play again or exit.
 --- !u!222 &148013180
 CanvasRenderer:
   m_ObjectHideFlags: 0
